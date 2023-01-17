@@ -1,0 +1,34 @@
+Log: apply_plsql_lab3.txt
+==================================================
+Test Case: Valid number, string, null             
+--------------------------------------------------
+
+Function created.
+
+Record: [38] [catch22] []
+
+PL/SQL procedure successfully completed.
+
+SP2-0734: unknown command beginning "cat apply_..." - rest of line ignored.
+==================================================
+Test Case: Valid number, string, and date         
+--------------------------------------------------
+
+Function created.
+
+Record: [41] [aerodromes] [13-OCT-07]
+
+PL/SQL procedure successfully completed.
+
+SP2-0042: unknown command "ls" - rest of line ignored.
+==================================================
+Test Case: Valid number, string, and invalid date 
+--------------------------------------------------
+
+Function created.
+
+Record: [81] [dagger] []
+
+PL/SQL procedure successfully completed.
+
+SP2-0025: Invalid change string.

@@ -1,0 +1,8 @@
+Log: apply_plsql_lab2-2.txt
+==========================================
+Test Case: String less than 11 characters
+------------------------------------------
+Enter value for input: No characters in : Then: Hello World!
+
+PL/SQL procedure successfully completed.
+
